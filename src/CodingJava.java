@@ -15,8 +15,11 @@ public class CodingJava {
 
 		System.out.println("but still be ready for changes");
 
+<<<<<<< HEAD
 		System.out.println("beb ready for stash, or more changes");
 		
+=======
+>>>>>>> origin
 	}
 	
 	
