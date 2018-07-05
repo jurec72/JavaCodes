@@ -12,6 +12,9 @@ public class CodingJava {
 		System.out.println("The world is changing");
 	}else {
 		System.out.println("It is still old world! Keep going!");
+
+		System.out.println("but still be ready for changes");
+
 	}
 	
 	
