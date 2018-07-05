@@ -15,7 +15,8 @@ public class CodingJava {
 
 		System.out.println("but still be ready for changes");
 
-		System.out.println("beb ready for stash");
+		System.out.println("beb ready for stash, or more changes");
+		
 	}
 	
 	
