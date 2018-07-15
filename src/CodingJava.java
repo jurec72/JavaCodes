@@ -19,7 +19,7 @@ public class CodingJava {
 		System.out.println("beb ready for stash, or more changes");
 		System.out.println("Nargiza July 15, git practice");
 		
-
+		//Yuriy good job!
 	}
 	
 	
