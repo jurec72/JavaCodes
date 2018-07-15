@@ -8,7 +8,9 @@ public class CodingJava {
 			System.out.println("Hello to Yuriy");
 			System.out.println("How are you guys? NZ");
 		}
+
 	System.out.println("Who likes soccer?");
+
 	
 	
 	
