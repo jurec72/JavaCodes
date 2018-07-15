@@ -8,19 +8,9 @@ public class CodingJava {
 			System.out.println("Hello to Yuriy");
 			System.out.println("How are you guys? NZ");
 		}
-	if(2+2==5) {
-		System.out.println("The world is changing");
-	}else {
-		System.out.println("It is still old world! Keep going!");
 
-		System.out.println("but still be ready for changes");
+	System.out.println("Who likes soccer?");
 
-
-		System.out.println("beb ready for stash, or more changes");
-		System.out.println("Nargiza July 15, git practice");
-		
-		//Yuriy good job!
-	}
 	
 	
 	
