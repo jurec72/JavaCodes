@@ -11,6 +11,6 @@ public class CodingJava {
 
 	System.out.println("Who likes soccer?");
 
-	System.out.println("We did it and we know github");
+
 	}
 }
